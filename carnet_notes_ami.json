@@ -1,0 +1,36 @@
+{
+  "ETU001": {
+    "nom": "Miora",
+    "notes": {
+      "Python": [
+        14,
+        16
+      ],
+      "Maths": [
+        12,
+        13
+      ]
+    }
+  },
+  "ETU002": {
+    "nom": "Tiana",
+    "notes": {
+      "Python": [
+        11,
+        15
+      ],
+      "Maths": [
+        14,
+        10
+      ]
+    }
+  },
+  "ETU003": {
+    "nom": "Hery",
+    "notes": {
+      "Python": [
+        17
+      ]
+    }
+  }
+}

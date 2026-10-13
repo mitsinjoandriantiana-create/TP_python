@@ -1,0 +1,26 @@
+{
+  "riz": {
+    "quantite": 17,
+    "prix": 3300
+  },
+  "huile": {
+    "quantite": 12,
+    "prix": 7700
+  },
+  "sucre": {
+    "quantite": 15,
+    "prix": 4400
+  },
+  "savon": {
+    "quantite": 0,
+    "prix": 2750
+  },
+  "farine": {
+    "quantite": 10,
+    "prix": 3850
+  },
+  "café": {
+    "quantite": 8,
+    "prix": 6600
+  }
+}
